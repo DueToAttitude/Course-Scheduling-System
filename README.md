@@ -6,7 +6,7 @@
 <h3>how to install</h3>
 
 <ul>
-<li>install tomcat</li>
+<li>install tomcat (and java jdk)</li>
 <li>move the folder "web" to folder "webapps" under root directory of tomcat</li>
 <li>creat database in mysql with the file "paike.sql"</li>
 <li>edite file directed in "web/WEB-INF/classes/com/info.properties", set "user" as login name of mysql, "password" as password of mysql and "database" as name of database created above</li>
