@@ -1,0 +1,14 @@
+table.myTableStyle {
+    position: absolute;
+    width:90%;
+    margin:2px;
+}
+
+table.myTableStyle thead {
+    background-color: #1abc9c;
+    padding-bottom:2px;
+}
+
+table.myTableStyle tr {
+    padding:2px;
+}
