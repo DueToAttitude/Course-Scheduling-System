@@ -1,6 +1,6 @@
 # paiek
 
-how to install
+<p>how to install</p>
 
 1.install tomcat
 2.move the folder "web" to folder "webapps" under root directory of tomcat
