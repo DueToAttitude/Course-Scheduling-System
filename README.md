@@ -1,4 +1,4 @@
-# paike System
+# Course Scheduling System
 
 <h3>introduction</h3>
 <p>this is a java project created in intellij IDEA</p>
