@@ -14,3 +14,6 @@
 <li>typing url "http://localhost:8080/web" in your browser</li>
 <li>login with user "admin" and password "111", also you can update them in your database just created before</li>
 </ul>
+
+<h3>attention</h3>
+<p>only used for studying and communicating, as a new learner, welcome to make your suggestions</p>
